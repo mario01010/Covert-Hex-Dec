@@ -2,7 +2,7 @@
 Convert Hexadecimal numeri in Decimal number and Decimal to Hexadecimal
 
 -------------------------------------------------
-  Create by Mario for a school project
+  Created by Mario for a school project
 -------------------------------------------------
 
 select the option corresponding to the operation you want to perform and enter the numbers to convert
